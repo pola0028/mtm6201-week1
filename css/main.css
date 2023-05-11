@@ -1,0 +1,27 @@
+.image{
+    max-width: 150px;
+    width: auto;
+    max-height: 150px;
+    height: auto;
+    float: left;
+    margin-right: 5px;
+}
+.para{
+    text-align: justify;
+}
+.paragraph{
+    width: 100%;
+}
+.desc{
+    background-color: rgb(205, 246, 0);
+}
+.tms{
+    font-size: 1.15rem;
+    font-weight: bold;
+}
+.backgroundcolour{
+    background-color: darkorange;
+}
+.colour{
+    background-color: deepskyblue;
+}
